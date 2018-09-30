@@ -3,7 +3,7 @@ badge_maker(name)
 names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 names.each do |name|
-  puts "Hello, my name is #{name}"
+  puts "Hello, my name is #{names}"
 end
 
 

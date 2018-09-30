@@ -1,2 +1,2 @@
 def badge_maker
-  puts "Hello, my name is [user info]"
+  puts "Hello, my name is 
